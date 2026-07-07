@@ -1,0 +1,44 @@
+{
+  "identifier" : "VintageCameraLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "vintagecameralog_pro_group",
+      "localizations" : [],
+      "name" : "VintageCameraLog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "vintagecameralog_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Film-roll log per camera with development notes",
+              "displayName" : "VintageCameraLog Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.vintagecameralog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "VintageCameraLog Pro Monthly",
+          "subscriptionGroupID" : "vintagecameralog_pro_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
